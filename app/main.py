@@ -3,7 +3,7 @@ from cell import Cell
 
 
 def main():
-    win = Window(800, 600)
+    win = Window(900, 600)
 
     c1 = Cell(win)
     c1.has_right_wall = False
